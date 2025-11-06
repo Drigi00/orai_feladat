@@ -1,4 +1,4 @@
-
+ 
 body {
     background-color: #fdf7c0;
     font-family: Arial, sans-serif;
@@ -48,6 +48,7 @@ td {
 
 tr:nth-child(even) td {
     background-color: #e8edf3;
+
 }
 
 
