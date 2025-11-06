@@ -1,0 +1,37 @@
+body {
+    background-color: #fffddc;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 20px auto;
+    width: 80%;
+    background-color: white;
+}
+
+th {
+    background-color: #8aa7c8;
+    color: black;
+    padding: 8px;
+    border: 1px solid #777;
+}
+
+td {
+    border: 1px solid #777;
+    padding: 6px 10px;
+    text-align: center;
+}
+
+tr:nth-child(odd) {
+    background-color: #f2f2f2;
+}
