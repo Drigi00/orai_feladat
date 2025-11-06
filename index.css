@@ -49,3 +49,9 @@ td {
 tr:nth-child(even) td {
     background-color: #e8edf3;
 }
+
+
+tr:nth-child(2) td:nth-child(2) {
+border: right 2px solid;
+
+}
